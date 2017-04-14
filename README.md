@@ -34,5 +34,5 @@ Ensuite vous avez 3 boutons :
 
 Dans une prochaine version je rajouterai un bouton pour désactiver la déduplication sur le volume sélectionné.
 
-![#f03c15](ATTENTION : cette version est uniquement compatible avec la version Windows 10 Creators Update.
-ATTENTION : un volume utilisant la déduplication ne pourra pas être utilisé depuis un PC ne disposant pas des outils de déduplication.)
+![#f03c15](ATTENTION : cette version est uniquement compatible avec la version Windows 10 Creators Update.) `#f03c15`
+![#f03c15](ATTENTION : un volume utilisant la déduplication ne pourra pas être utilisé depuis un PC ne disposant pas des outils de déduplication.) `#f03c15`
