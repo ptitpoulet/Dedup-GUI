@@ -5,11 +5,13 @@ Alors comment ça marche ?
 C'est assez simple. Parmi tous les fichiers présents sur votre disque dur, certains fichiers auront des séquences de données identiques. Et donc pourquoi les avoir plusieurs fois sur le disque dur alors qu'une seule fois suffit.
 
 Pour faire simple voici un petit schéma :
+
 ![alt tag](https://cloud.githubusercontent.com/assets/27426117/25043710/2528e384-2122-11e7-9d9d-660205ce24e5.png)
 
 Les séquences identiques sont donc gardées une seule fois et ainsi un gain de place peut-être obtenu.
 
 D'après la documentation Microsoft voici le gain de place que vous pouvez obtenir par rapport aux types de données :
+
 ![alt tag](https://cloud.githubusercontent.com/assets/27426117/25043719/4279271e-2122-11e7-82ca-18afb0fa51ca.png)
 
 Bon ok c'est bien beau tout ça mais pourquoi je n'ai jamais trouvé l'option sur mon Windows 10 tout beau !?
@@ -22,6 +24,7 @@ Jusque là tout va bien c'est facile. Mais une fois installé, seule la ligne de c
 Alors comme j'avais envie de m'amuser un peu et que je suis sympa (quoi j'ai le droit de me lancer des fleurs :D), j'ai développé une interface graphique pour piloter tout ça.
 
 Voici un petit aperçu :
+
 ![alt tag](https://cloud.githubusercontent.com/assets/27426117/25043738/6ad7510e-2122-11e7-8600-5ca2e62b33e4.JPG)
 
 Pour l'utiliser rien de plus simple, on exécute le logiciel en tant qu'administrateur. Si les prérequis ne sont pas présents sur votre PC ils seront installés lors du 1er lancement, donc pas d'inquiétude si la 1ère fois l'interface met un peu de temps avant d'apparaître. Celle-ci vous affiche ensuite toutes les partitions à l'exception de celle hébergeant l'OS (en général le C:) car cette option ne peut-être appliquée sur la partition système.
